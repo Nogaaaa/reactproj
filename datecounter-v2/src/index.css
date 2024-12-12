@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App input {
+  cursor: pointer;
+}
+button  {
+  cursor: pointer;
+}
